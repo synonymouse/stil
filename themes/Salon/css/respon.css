@@ -1,0 +1,46 @@
+@media (max-width: 640px) {
+
+.time-work{
+		display: none;
+	}
+.m-menu,.search-m,.main-mob-zvon {
+	display: block;
+}
+	.wrap {
+	max-width: 98%;
+	min-width: 98%;
+}
+.cont,.logo,.btn,.top-menu,.search-btn{
+	display: none;
+}
+
+.header {
+	background: none;
+	min-height: 48px;
+}
+
+.top-menu-m {
+	margin-top: 0;
+	margin-bottom: 3px;
+}
+
+#search-m input{
+	width: 100%;
+}
+
+#content-l, #news,.sidebar,.newsthumb {
+	max-width: 100%;
+	min-width: 100%;
+	float: none;
+}
+
+#content-l h3, #news h3{
+	font-size: 18px;
+}
+
+h2.title a{
+	font: 18px Arial, Tahoma sans-serif;
+}
+
+
+}
