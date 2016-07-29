@@ -2,6 +2,7 @@
 themes/twenty*
 upgrade
 uploads
+uploads_
 sitemap.*
 wp-config.php
 *.sql
